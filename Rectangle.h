@@ -8,6 +8,7 @@ using namespace std;
 //constant for standard output
 const HANDLE outHandle = GetStdHandle(STD_OUTPUT_HANDLE);
 
+//class declaration
 class Shape
 {
 private:
